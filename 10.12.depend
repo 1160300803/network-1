@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540607860 source:d:\mydrivers\update\cb\data structure\10.12\main.cpp
+	<stdio.h>
+	<Windows.h>
+	<process.h>
+	<string>
+	<tchar.h>
+
